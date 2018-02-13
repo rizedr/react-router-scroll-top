@@ -6,6 +6,8 @@ A good explanation of the code can be found in the [answer](https://stackoverflo
 
 It's a create-react-app, so for more details check that out.
 
-To checkout the demo this:
+To run it, do this steps:
 1. `npm install`
 2. `npm run start`
+
+The app will run on port `3000`.
